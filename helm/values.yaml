@@ -7,7 +7,7 @@ service:
   type: ClusterIP
 
 image:
-  repository: techtrends 
+  repository: arunprakashpj/techtrends 
   tag: latest
   pullPolicy: IfNotPresent
 
