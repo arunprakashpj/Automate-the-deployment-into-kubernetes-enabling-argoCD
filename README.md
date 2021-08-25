@@ -67,9 +67,9 @@ The Logs have been enabled for the project
     
   ###  Visualization of the entire process
   
-  ![Screenshot](docker-run-local.PNG)
-  ![Screenshot](ci-github-actions.PNG)
-  ![Screenshot](ci-dockerhub.PNG)
-  ![Screenshot](kubernetes-declarative-manifests.PNG)
-  ![Screenshot](argocd-techtrends-stag.PNG)
-  ![Screenshot](argocd-techtrends-prod.PNG)
+  ![Screenshot](https://github.com/arunprakashpj/TechTrends/blob/main/screenshots/docker-run-local.PNG)
+  ![Screenshot](https://github.com/arunprakashpj/TechTrends/blob/main/screenshots/ci-github-actions.PNG)
+  ![Screenshot](https://github.com/arunprakashpj/TechTrends/blob/main/screenshots/ci-dockerhub.PNG)
+  ![Screenshot](https://github.com/arunprakashpj/TechTrends/blob/main/screenshots/kubernetes-declarative-manifests.PNG)
+  ![Screenshot](https://github.com/arunprakashpj/TechTrends/blob/main/screenshots/argocd-techtrends-stag.PNG)
+  ![Screenshot](https://github.com/arunprakashpj/TechTrends/blob/main/screenshots/argocd-techtrends-prod.PNG)
