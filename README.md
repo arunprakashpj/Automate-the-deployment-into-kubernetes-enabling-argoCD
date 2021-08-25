@@ -69,10 +69,18 @@ The Logs have been enabled for the project
   
   Fig 1 : Docker Image  
   ![Screenshot](https://github.com/arunprakashpj/TechTrends/blob/main/screenshots/docker-run-local.PNG)
- 
-   Fig 1 : Docker Image  
+  <br />
+  Fig 2 : CI Github Actions
   ![Screenshot](https://github.com/arunprakashpj/TechTrends/blob/main/screenshots/ci-github-actions.PNG)
+  <br />
+  Fig 3 : CI DockerHub
   ![Screenshot](https://github.com/arunprakashpj/TechTrends/blob/main/screenshots/ci-dockerhub.PNG)
+  
+  Fig 4 : Kubernetes Manifests
   ![Screenshot](https://github.com/arunprakashpj/TechTrends/blob/main/screenshots/kubernetes-declarative-manifests.PNG)
+  
+  Fig 4 : ArgoCD -Staging Environment
   ![Screenshot](https://github.com/arunprakashpj/TechTrends/blob/main/screenshots/argocd-techtrends-stag.PNG)
+  
+  Fig 5 : ArgoCD - Prod Environment
   ![Screenshot](https://github.com/arunprakashpj/TechTrends/blob/main/screenshots/argocd-techtrends-prod.PNG)
