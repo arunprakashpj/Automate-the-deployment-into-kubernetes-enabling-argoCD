@@ -2,7 +2,7 @@
 
 # Introduction
 
-TechTrends is an online website used as a news sharing platform, that enables consumers to access the latest news within the cloud-native ecosystem.  The application is  packaged  with the help of Docker. Github Actions are used to enable continuous integration, thus automating the build and pushing  the docker image to dockerhub. Kubernetes cluster is provisioned using K3s in a vagrant box where the application is deployed. Kubernetes Manifest template is made using Helm Charts and input configuration files for Staging and prod environment are made. ArgoCD is used to enable Continuoud Delivery on each deployment at Staging/Prod Environment. 
+TechTrends is an online website used as a news sharing platform, that enables consumers to access the latest news within the cloud-native ecosystem.  The application is  packaged  with the help of Docker. Github Actions are used to enable continuous integration, thus automating the build and pushing  the docker image to dockerhub. Kubernetes cluster is provisioned using K3s in a vagrant box where the application is deployed. Kubernetes Manifest template is made using Helm Charts and input configuration files for Staging and prod environment are made. ArgoCD is used to enable Continuous Delivery on each deployment at Staging/Prod Environment. 
 
 
 ### Getting Started
