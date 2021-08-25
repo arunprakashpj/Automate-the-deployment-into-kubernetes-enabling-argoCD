@@ -58,7 +58,7 @@ The Logs have been enabled for the project.
      - You can find the helm charts  [here](https://github.com/arunprakashpj/TechTrends/tree/main/helm).
      - The input values are built for [staging](https://github.com/arunprakashpj/TechTrends/tree/main/helm) and [production](https://github.com/arunprakashpj/TechTrends/tree/main/helm) environment seperately.
    
-   5. Continuous Delibvery using ArgoCD
+   5. Continuous Delivery using ArgoCD
        - The aim of this step is to automatically deploy the application using ArgoCD, thus easy release to staging and production environment using the helm chart templates
        - Nodeport Service Yaml files can be found [here](https://github.com/arunprakashpj/TechTrends/tree/main/argocd)
        - Access the argoCD UI at https://192.168.50.4 : 300008 or http://192.168.50.4:30007
