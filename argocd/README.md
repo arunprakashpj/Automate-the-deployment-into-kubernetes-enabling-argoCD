@@ -1,3 +1,3 @@
 ## ArgoCD Manifests 
 
-You can find all files releated to ArgoCD manifests in this directory.
+You can find all the files releated to ArgoCD manifests in this directory.
