@@ -28,7 +28,7 @@ The project has /healthz endpoint exposed at [app.py](https://github.com/arunpra
 
 The project has /metrics endpoint exposed at [app.py](https://github.com/arunprakashpj/TechTrends/blob/main/techtrends/app.py) file
 
-The Logs have been enabled for the project
+The Logs have been enabled for the project.
 
 
 ### Instructions
