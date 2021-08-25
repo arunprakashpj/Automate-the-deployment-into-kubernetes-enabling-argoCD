@@ -1,4 +1,4 @@
-# Exploring DevOps :  Package and Deploy the website to kubernetes using CI/CD Pipeline
+# Exploring DevOps :  Package and Deploy the application  to kubernetes using CI/CD Pipeline
 
 # Introduction
 
