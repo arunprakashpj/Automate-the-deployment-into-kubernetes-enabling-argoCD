@@ -1,3 +1,3 @@
 ## Screenshots 
 
-Place any project screenshots in this directory.
+The screenshot to portray the entire deployment process is avaialble here
