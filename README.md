@@ -6,7 +6,7 @@ TechTrends is an online website used as a news sharing platform, that enables co
 
 
 ### Getting Started
-1. Clone this repository..
+1. Clone this repository.
 2. Install the dependencies.
 3. Setup the Vagrant environment.
 4. Package and Deploy the application of your choice.
@@ -59,11 +59,11 @@ The Logs have been enabled for the project.
      - The input values are built for [staging](https://github.com/arunprakashpj/TechTrends/tree/main/helm) and [production](https://github.com/arunprakashpj/TechTrends/tree/main/helm) environment seperately.
    
    5. Continuous Delibvery using ArgoCD
-     - The aim of this step is to automatically deploy the application using ArgoCD, thus easy release to staging and production environment using the helm chart templates
-     - Nodeport Service Yaml files can be found [here](https://github.com/arunprakashpj/TechTrends/tree/main/argocd)
-     - Access the argoCD UI at https://192.168.50.4 : 300008 or http://192.168.50.4:30007
-     - Login credentials can be retrieved using the steps [here](https://argoproj.github.io/argo-cd/getting_started/#4-login-using-the-cli)
-     - Whenever you made a new commit, the application will be packed into docker image and gets deployed.
+       - The aim of this step is to automatically deploy the application using ArgoCD, thus easy release to staging and production environment using the helm chart templates
+       - Nodeport Service Yaml files can be found [here](https://github.com/arunprakashpj/TechTrends/tree/main/argocd)
+       - Access the argoCD UI at https://192.168.50.4 : 300008 or http://192.168.50.4:30007
+       - Login credentials can be retrieved using the steps [here](https://argoproj.github.io/argo-cd/getting_started/#4-login-using-the-cli)
+       - Whenever you made a new commit, the application will be packed into docker image and gets deployed.
     
   ###  Visualization of the entire process
   
