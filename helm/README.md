@@ -1,3 +1,3 @@
 ## Helm Chart 
 
-Place the Helm Chart files in this directory.
+You can find all files releated to Helm Charts in this directory.
