@@ -16,8 +16,8 @@ TechTrends is an online website used as a news sharing platform, that enables co
 ### Dependencies
 3. Install [Python](https://www.python.org/downloads/)
 4. Install [Git](https://git-scm.com/downloads)
-5. Install [Docker](https://docs.docker.com/get-docker/),
-6. Install [Vagrant](https://www.vagrantup.com/downloads),
+5. Install [Docker](https://docs.docker.com/get-docker/)
+6. Install [Vagrant](https://www.vagrantup.com/downloads)
 7. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 8. Install [ArgoCD](https://argoproj.github.io/argo-cd/getting_started/#1-install-argo-cd)
 
