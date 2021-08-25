@@ -6,7 +6,7 @@ TechTrends is an online website used as a news sharing platform, that enables co
 
 
 ### Getting Started
-1. Clone this repository.
+1. Clone this repository..
 2. Install the dependencies.
 3. Setup the Vagrant environment.
 4. Package and Deploy the application of your choice.
