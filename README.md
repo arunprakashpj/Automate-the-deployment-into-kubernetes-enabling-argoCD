@@ -67,7 +67,10 @@ The Logs have been enabled for the project
     
   ###  Visualization of the entire process
   
+  Fig 1 : Docker Image  
   ![Screenshot](https://github.com/arunprakashpj/TechTrends/blob/main/screenshots/docker-run-local.PNG)
+ 
+   Fig 1 : Docker Image  
   ![Screenshot](https://github.com/arunprakashpj/TechTrends/blob/main/screenshots/ci-github-actions.PNG)
   ![Screenshot](https://github.com/arunprakashpj/TechTrends/blob/main/screenshots/ci-dockerhub.PNG)
   ![Screenshot](https://github.com/arunprakashpj/TechTrends/blob/main/screenshots/kubernetes-declarative-manifests.PNG)
