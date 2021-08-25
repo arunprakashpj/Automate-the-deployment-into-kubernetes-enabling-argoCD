@@ -84,3 +84,8 @@ The Logs have been enabled for the project
   
   ## Fig 6 : ArgoCD - Prod Environment
   ![Screenshot](https://github.com/arunprakashpj/TechTrends/blob/main/screenshots/argocd-techtrends-prod.PNG)
+  
+  
+## Demo 
+
+[![Demo](https://github.com/arunprakashpj/Deploying-CICD-Pipeline-in-Azure/blob/main/Screenshots/clickhere.png)](https://www.youtube.com/)
