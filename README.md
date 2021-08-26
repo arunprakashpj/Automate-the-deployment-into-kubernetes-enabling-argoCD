@@ -49,7 +49,7 @@ The Logs have been enabled for the project.
      - Aim of this step is to create a declarative kubernetes manifest and release the application to the sandbox environment
      - Use Vagrant environment and create kubernetes cluster with [k3s](https://k3s.io/). Check attached [vagrant file](https://github.com/arunprakashpj/TechTrends/blob/main/Vagrantfile) for reference
      - To create a vagrant box, navigate to this [location](https://github.com/arunprakashpj/TechTrends/blob/main/Vagrantfile)  where vagrantfile is placed.
-     - Use the command ``vagrant up`` , then ``vagrant ssh``
+     - Use the command ``vagrant up`` , then ``vagrant ssh``.
      - You can find the kubernetes declartive manifests [here](https://github.com/arunprakashpj/TechTrends/tree/main/kubernetes).
      - Use the command ``kubectl apply -f yaml_file_name`` to deploy the application in k3s cluster.
   
